@@ -1,200 +1,179 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Cristian Meo",
+    "label": "PhD student in Generative AI",
+    "image": "im.jpg",
+    "email": "c.meo@tudelft.nl, cristian.meo@mila.quebec",
+    "phone": "+31 0611800165",
+    "url": "https://cmeo97.github.io/",
+    "summary": "I am PhD student in Computer Science at TUDelft advised by Prof. Justin Dauwels and Prof. Geert Leus. \n I am currently working on Generative Models for video prediction and model based RL downstream tasks. I have practical experience in: \n 1) Object-Centric Representation Learning, Unsupervised Representation Learning, Deep Information Theory, Disentanglement Learning. \n 2) Generative Modelling: VAEs, GANs, Diffusion Models, Autoregressive Transformers, Spatio-Temporal generative models (I.e, ConvLSTM, VQVAE+TransformerXL, etc.), Modular Neural Networks (I.e., Neural Production Systems, Recurrent Independent Mechanisms). \n 3) Model-based Reinforcement Learning: Multi Agent RL, PPO-based models, Recurrent State Space Models (RSSMs, such as Dreamer), Transformer-based world models (I.e., STORM, IRIS, Transdreamer), Hierarchical models (I.e., Director). \n \n Since the beginning of my PhD I supervised over 25 Master students and mentored 4 PhD students. \n Moreover, I am the teacher of the Deep Learning practicals section of EE4685 Machine learning, a Bayesian perspective at TUDelft.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Mekewelg 4",
+      "postalCode": "2628CD",
+      "city": "Delft",
+      "countryCode": "NL",
+      "region": "SouthHolland"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Cristian Meo",
+        "url": "https://www.linkedin.com/in/cristian-meo/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Delft University of Technology",
+      "position": "PhD Student in Generative AI",
+      "url": "https://microelectronics.tudelft.nl/People/bio.php?id=809",
+      "startDate": "01-10-2021",
+      "endDate": "Ongoing",
+      "summary": "I am PhD student in Computer Science at TUDelft advised by Prof. Justin Dauwels and Prof. Geert Leus. \n I am currently working on Generative Models for video prediction and model based RL downstream tasks. I have practical experience in: \n 1) Object-Centric Representation Learning, Unsupervised Representation Learning, Deep Information Theory, Disentanglement Learning. \n 2) Generative Modelling: VAEs, GANs, Diffusion Models, Autoregressive Transformers, Spatio-Temporal generative models (I.e, ConvLSTM, VQVAE+TransformerXL, etc.), Modular Neural Networks (I.e., Neural Production Systems, Recurrent Independent Mechanisms). \n 3) Model-based Reinforcement Learning: Multi Agent RL, PPO-based models, Recurrent State Space Models (RSSMs, such as Dreamer), Transformer-based world models (I.e., STORM, IRIS, Transdreamer), Hierarchical models (I.e., Director).",
+      "highlights": [
+        "Video Prediction Modelling",
+        "Model-based Reinforcement Learning",
+        "Vision-Language Modelling",
+        "Representation Learning",
+        "Object-Centric Representation Learning"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Delft University of Technology",
+      "location": "Delft, Netherlands",
+      "url": "https://www.tudelft.nl/",
+      "area": "BioRobotics",
+      "studyType": "MSc",
+      "startDate": "01-09-2019",
+      "endDate": "30-08-2021",
+      "score": "9 cum Laude"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "MILA Internship Scholarship",
+      "date": "01-02-2023",
+      "awarder": "MILA Quebec AI Institute, Montreal, Quebec",
+      "url": "https://mila.quebec/en",
+      "summary": "Research Internship supervised by Prof. Yoshua Bengio and Dr. Anirudh Goyal"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "TUDelft Honor Program",
+      "date": "30-08-2021",
+      "awarder": "Delft University of Technology",
+      "url": "https://www.tudelft.nl/en/student/eemcs-student-portal/education/honours-programme",
+      "summary": "Top 2% students"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Young Talent Award",
+      "date": "30-08-2019",
+      "awarder": "Politecnico di Torino",
+      "url": "https://www.polito.it/didattica/didattica-partecipata/honors-programs/percorso-intraprendenti",
+      "summary": "Top 2% students"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "AlphaTC-VAE: On the relationship between Disentanglement and Diversity",
+      "publisher": "The Twelfth International Conference on Learning Representations (ICLR 2024)",
+      "releaseDate": "2023-10-13",
+      "url": "https://openreview.net/pdf?id=ptXo0epLQo",
+      "summary": " In this work, we introduce AlphaTC-VAE, a variational autoencoder optimized using a novel total correlation (TC) lower bound that maximizes disentanglement and latent variables informativeness. "
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Nowcasting of Extreme Precipitation Using Deep Generative Models",
+      "publisher": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "releaseDate": "2023-06-04",
+      "url": "https://ieeexplore.ieee.org/iel7/10094559/10094560/10094988.pdf",
+      "summary": "In this paper, novel deep generative models are proposed for precipitation nowcasting. These models are equipped with extreme-value losses to more reliably predict extreme precipitation events. "
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Extreme Precipitation Nowcasting using Transformer-based Generative Models",
+      "publisher": "ICLR 2024 Workshop: Tackling Climate Change with Machine Learning",
+      "releaseDate": "2024-03-06",
+      "url": "https://arxiv.org/pdf/2403.03929",
+      "summary": "This paper presents an innovative approach to extreme precipitation nowcasting by employing Transformer-based generative models, namely NowcastingGPT with Extreme Value Loss (EVL) regularization "
+    },
+    {
+      "name": "Stateful active facilitator: Coordination and environmental heterogeneity in cooperative multi-agent reinforcement learning",
+      "publisher": "The Eleventh International Conference on Learning Representations (ICLR 2023)",
+      "releaseDate": "2022-10-04",
+      "url": "https://openreview.net/forum?id=B4maZQLLW0_",
+      "summary": "In this work we formalize the notions of coordination level and heterogeneity level of an environment and present HECOGrid, a suite of multi-agent RL environments that facilitates empirical evaluation of different MARL approaches across different levels of coordination and environmental heterogeneity by providing a quantitative control over coordination and heterogeneity levels of the environment. Further, we propose a Centralized Training Decentralized Execution learning approach called Stateful Active Facilitator (SAF) that enables agents to work efficiently in high-coordination and high-heterogeneity environments through a differentiable and shared knowledge source used during training and dynamic selection from a shared pool of policies. "
+    },
+    {
+      "name": "Active inference in robotics and artificial agents: Survey and challenges",
+      "publisher": "ArXiv",
+      "releaseDate": "2021-12-03",
+      "url": "https://arxiv.org/pdf/2112.01871",
+      "summary": "Survey and challengese of Active Inference approachs in robotics and artificial intelligence. "
+    },
+    {
+      "name": "Multimodal-VAE Active Inference Controller",
+      "publisher": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "releaseDate": "2021-09-27",
+      "url": "https://ieeexplore.ieee.org/iel7/9635848/9635849/09636394.pdf",
+      "summary": "We present a novel active inference torque controller for industrial arms that maintains the adaptive characteristics of previous proprioceptive approaches but also enables large-scale multimodal integration (e.g., raw images)."
+    },
+    {
+      "name": "Adaptation through prediction: Multisensory active inference torque control",
+      "publisher": "IEEE Transactions on Cognitive and Developmental Systems",
+      "releaseDate": "2021-12-13",
+      "url": "https://ieeexplore.ieee.org/iel7/7274989/7422051/09937202.pdf",
+      "summary": "Adaptation to external and internal changes is of major importance for robotic systems in uncertain environments. Here, we present a novel multisensory active inference (AIF) torque controller for industrial arms that shows how prediction can be used to resolve adaptation."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Deep Learning",
+      "level": "Expert",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Generative AI",
+        "Large Language Models",
+        "World Models",
+        "Model-based Reinforcement Learning",
+        "Object-Centric Representation Learning",
+        "Representation Learning",
+        "Deep Information Theory",
+        "PyTorch, JAX, Tensorflow"
       ]
+    },
+    {
+      "name": "Robotics",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Robot Dynamics and Control", "ROS"]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent - C1",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Beginner - A1",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Snowboarding"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "name": "KiteSurfing"
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Snowboarding"
     }
   ]
 }
