@@ -25,4 +25,4 @@ I’m currently working on Generative Models for video prediction and model base
 
 Along my academic career I obtained a BSc in Mechanical Engineering at Politecnico di Torino and a MSc in BioRobotics at TUDelft cum Laude. I have also spent six months as a research intern at [Mila](https://mila.quebec/en) in Montreal, supervised by [Yoshua Bengio](https://yoshuabengio.org) and Anirudh Goyal. 
 
-**I am in the job market right now**. To get in touch, write me an email at: c.meo@tudelft.nl
+I am in the job market right now. To get in touch, write me an email at: c.meo@tudelft.nl
