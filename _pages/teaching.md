@@ -14,6 +14,13 @@ nav_order: 4
 {% endfor %}
 <br>
 
+### Supervision
+{% assign teaching = site.data.supervision | sort: 'year' | reverse %}
+{% for item in site.data.supervision %}
+  {% include teaching-item.liquid %}
+{% endfor %}
+<br>
+
 
 ### Voluntary work
 - **Organiser** of AI Job Fair in Delft (ongoing).
