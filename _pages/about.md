@@ -18,8 +18,8 @@ social: true # includes social icons at the bottom of the page
 
 Hi! My name is Cristian Meo, I'm a final-year PhD student at [Delft University of Technology](https://www.tudelft.nl/), supervised by [Justin Dauwels](https://www.linkedin.com/in/justin-dauwels-9146b62/?originalSubdomain=nl) and [Geert Leus](https://scholar.google.com/citations?user=P9MqNggAAAAJ&hl=en), and mentored by [Anirudh Goyal](https://scholar.google.co.in/citations?user=krrh6OUAAAAJ&hl=en).
 
-I’m currently working on Generative Models for video prediction and model based RL downstream tasks. My current focus in on leveraging pretrained Vision-Language Models (VLMs) to learn Generalist World Models. 
+I’m currently working on Generative Models for video prediction and model based RL downstream tasks. My current research focus is leveraging pretrained Vision-Language Models (VLMs) to learn Generalist World Models. 
 
-Along my academic career I obtained a BSc in Mechanical Engineering at Politecnico di Torino and a MSc in BioRobotics at TUDelft cum Laude. I have also spent six months as a research intern at [Mila](https://mila.quebec/en) in Montreal, supervised by [Yoshua Bengio](https://yoshuabengio.org) and [Anirudh Goyal](https://scholar.google.co.in/citations?user=krrh6OUAAAAJ&hl=en).
+Along my academic career I obtained a BSc in Mechanical Engineering at [Politecnico di Torino](https://www.polito.it) and a MSc in BioRobotics at [TUDelft](https://www.tudelft.nl/) cum Laude. I have also spent six months as a research intern at [Mila](https://mila.quebec/en) in Montreal, supervised by [Yoshua Bengio](https://yoshuabengio.org) and [Anirudh Goyal](https://scholar.google.co.in/citations?user=krrh6OUAAAAJ&hl=en).
 
 I am in the job market **right now**. To get in touch, write me an email at: c.meo@tudelft.nl
