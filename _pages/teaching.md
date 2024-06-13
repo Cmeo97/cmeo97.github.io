@@ -2,6 +2,8 @@
 layout: page
 title: Academical service
 permalink: /teaching
+nav: true
+nav_order: 4
 ---
 
 
