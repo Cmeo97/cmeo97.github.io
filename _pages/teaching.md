@@ -29,6 +29,3 @@ nav_order: 4
 - **Supervisor** of several MSc students at TUDelft and [National University of Singapore](https://www.cogai4sci.com). 
 <br>
 
-### Awards
-- **Infineon’s IPCEI PhD Booster Scholarship** award obtained in 2023, it provides a 4 years scholarship to travel, attend conferences and world wide events.  
-- **SURF Compute Grant** to conduct research on SURF supercomputer. 
