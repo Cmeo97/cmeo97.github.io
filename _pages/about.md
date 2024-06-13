@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Delft University of Technology, Mila </a>. 
+subtitle: <a href='#'>Delft University of Technology - Mila. </a> 
 
 profile:
   align: right
