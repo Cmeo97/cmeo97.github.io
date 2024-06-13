@@ -53,18 +53,18 @@
   ],
   "awards": [
     {
-      "title": "Infineon’s IPCEI PhD Booster Scholarship",
-      "date": "01-02-2022",
-      "awarder": "Infineon Technologies",
-      "url": "https://www.infineon.com/dgdl/IPCEI_PhDbooster_Folder_newCD.pdf?fileId=8ac78c8b821f361701828be6602a0054",
-      "summary": "A 3 years scholarship to travel, attend conferences and world wide events."
-    },
-    {
       "title": "SURF Compute Grant",
       "date": "01-04-2024",
       "awarder": "SURF",
       "url": "https://www.surf.nl",
       "summary": "Compute resources to conduct top-notch ML research."
+    },
+    {
+      "title": "Infineon’s IPCEI PhD Booster Scholarship",
+      "date": "15-02-2023",
+      "awarder": "Infineon Technologies",
+      "url": "https://www.infineon.com/dgdl/IPCEI_PhDbooster_Folder_newCD.pdf?fileId=8ac78c8b821f361701828be6602a0054",
+      "summary": "A 3 years scholarship to travel, attend conferences and world wide events."
     },
     {
       "title": "MILA Internship Scholarship",
