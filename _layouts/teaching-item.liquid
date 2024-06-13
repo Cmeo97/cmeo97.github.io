@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="media">
+  <div class="media-content">
+    <div class="content">
+      <p>
+        {% if item.url %}
+          <a href="{{ item.url }}"><b>{{ item.name }}</b></a>,
+        {% else %}
+          <em>{{ item.name }}</em>,
+        {% endif %}
+        {{ item.role }}.<br>
+        {% if item.university %}
+          {{ item.university }},
+        {% endif %}
+        {{ item.year }}.
+      </p>
+    </div>
+  </div>
+</article>

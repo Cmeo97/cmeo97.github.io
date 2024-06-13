@@ -8,60 +8,10 @@ nav_order: 4
 
 
 ### Teaching
-- name: Research Project (Internship)
-  university: Delft University of Technology, EPFL
-  role: Project supervisor
-  year: 2024
-
-- name: Research Projects (MSc Thesis) 
-  university: Delft University of Technology
-  role: Project supervisor, Final year students
-  year: 2024
-
-- name: Machine Learning, a Bayesian Perspective (EE4685)
-  university: Delft University of Technology
-  role: Teaching Assistant and Instructor, Final year MSc students
-  year: 2024
-
-- name: Machine Learning, a Bayesian Perspective (EE4685)
-  university: Delft University of Technology
-  role: Teaching Assistant, Final year MSc students
-  year: 2023
-
-- name: Machine Learning for Electrical Engineering (EE4C12)
-  university: Delft University of Technology
-  role: Teaching Assistant, First year MSc students
-  year: 2023
-
-- name: Research Projects (MSc Thesis)
-  university: Delft University of Technology
-  role: Project supervisor, Final year students
-  year: 2023
-
-- name: Research Projects (MSc Thesis)
-  university: Delft University of Technology
-  role: Project supervisor, Final year students
-  year: 2022
-
-- name: Research Project (Honors Project)
-  university: Delft University of Technology
-  role: Project supervisor, Honors program
-  year: 2023
-
-- name: Research Project 
-  university: National University of Singapore
-  role: Project supervisor, Final year students
-  year: 2023
-
-- name: Research Project 
-  university: Mila Quebec AI Institute
-  role: Project supervisor, MSc student
-  year: 2023
-
-- name: Research Project (Honors Project)
-  university: Delft University of Technology
-  role: Project supervisor, Honors program
-  year: 2024
+{% assign teaching = site.data.teaching | sort: 'year' | reverse %}
+{% for item in site.data.teaching %}
+  {% include teaching-item.liquid %}
+{% endfor %}
 <br>
 
 
