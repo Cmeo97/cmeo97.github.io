@@ -177,6 +177,11 @@
       "language": "French",
       "fluency": "Beginner - A1",
       "icon": ""
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Beginner - A1",
+      "icon": ""
     }
   ],
   "interests": [
@@ -187,7 +192,13 @@
       "name": "KiteSurfing"
     },
     {
-      "name": "Snowboarding"
+      "name": "Cinematography"
+    },
+    {
+      "name": "Photography"
+    },
+    {
+      "name": "Music"
     }
   ]
 }

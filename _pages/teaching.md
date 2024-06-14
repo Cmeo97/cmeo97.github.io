@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academical service
+title: Academical Service
 permalink: /teaching
 nav: true
 nav_order: 4
