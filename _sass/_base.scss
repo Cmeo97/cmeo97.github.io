@@ -182,6 +182,25 @@ ul.task-list input[type="checkbox"] {
 
 // Profile
 
+// Base styles for the image
+.large-image {
+  width: 100%; // Default width for smaller screens
+}
+
+// Increase image size for screens wider than 768px
+@media (min-width: 768px) {
+  .large-image {
+    width: 200%; // Adjust this value as needed for larger screens
+  }
+  .image-location {
+    position: relative;
+    left: 10px;  // Adjust this value as needed for the desired position
+    top: 10px;   // Adjust this value as needed for the desired position
+  }
+}
+
+
+
 .no-border {
   border: none !important;
   box-shadow: none !important;
