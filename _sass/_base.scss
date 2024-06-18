@@ -190,11 +190,11 @@ ul.task-list input[type="checkbox"] {
 // Increase image size for screens wider than 768px
 @media (min-width: 768px) {
   .large-image {
-    width: 200%; // Adjust this value as needed for larger screens
+    width: 400%; // Adjust this value as needed for larger screens
   }
   .image-location {
     position: relative;
-    left: 10px;  // Adjust this value as needed for the desired position
+    right: 20px;  // Adjust this value as needed for the desired position
     top: 10px;   // Adjust this value as needed for the desired position
   }
 }
