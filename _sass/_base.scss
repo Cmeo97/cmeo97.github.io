@@ -2,6 +2,7 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+ 
 // Typography
 
 p,
@@ -179,9 +180,6 @@ ul.task-list input[type="checkbox"] {
 .citation-number {
   color: var(--global-theme-color);
 }
-
-// Profile
-
 
 // Increase image size for screens wider than 768px
 @media (min-width: 768px) {
