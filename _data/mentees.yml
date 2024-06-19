@@ -1,14 +1,22 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Anirudh":
+  - firstname: ["Anirudh Goyal"]
+    url: https://scholar.google.com/citations?user=krrh6OUAAAAJ&hl=en&oi=ao
+    affiliation: Google Deepmind, UK
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Justin":
+  - firstname: ["Justin Dauwels"]
+    url: https://www.linkedin.com/in/justin-dauwels-9146b62/?originalSubdomain=nl
+    affiliation: Delft University of Technology
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Geert":
+  - firstname: ["Geert Leus"]
+    url: https://scholar.google.com/citations?user=P9MqNggAAAAJ&hl=en
+    affiliation: Delft University of Technology
+
+"Dianbo":
+  - firstname: ["Dianbo Liu"]
+    url: https://www.cogai4sci.com
+    affiliation: National University of Singapore 
 
 "bach":
   - firstname: ["Johann Sebastian", "J. S."]
