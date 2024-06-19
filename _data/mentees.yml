@@ -1,42 +1,19 @@
-"Anirudh":
-  - firstname: ["Anirudh Goyal"]
-    url: https://scholar.google.com/citations?user=krrh6OUAAAAJ&hl=en&oi=ao
-    affiliation: Google Deepmind, UK
+"Mircea":
+  - firstname: ["Mircea Tudor Lica"]
+    url: https://nl.linkedin.com/in/mircea-tudor-lica-993109193
+    affiliation: Delft University of Technology, NL
 
-"Justin":
-  - firstname: ["Justin Dauwels"]
-    url: https://www.linkedin.com/in/justin-dauwels-9146b62/?originalSubdomain=nl
-    affiliation: Delft University of Technology
+"Ksenia":
+  - firstname: ["Ksenia Sycheva"]
+    url: https://www.linkedin.com/in/ksenia-sycheva-74b641220/
+    affiliation: Delft University of Technology, NL
 
-"Geert":
-  - firstname: ["Geert Leus"]
-    url: https://scholar.google.com/citations?user=P9MqNggAAAAJ&hl=en
-    affiliation: Delft University of Technology
+"Thomas":
+  - firstname: ["Ksenia Sycheva"]
+    url: https://www.linkedin.com/in/ksenia-sycheva-74b641220/
+    affiliation: Delft University of Technology, NL
 
-"Dianbo":
-  - firstname: ["Dianbo Liu"]
-    url: https://www.cogai4sci.com
-    affiliation: National University of Singapore 
-
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Varun":
+  - firstname: ["Ksenia Sycheva"]
+    url: https://www.linkedin.com/in/ksenia-sycheva-74b641220/
+    affiliation: Delft University of Technology, NL

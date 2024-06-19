@@ -1,21 +1,43 @@
+"Aniket":
+  - firstname: ["Aniket Didolkar"]
+    url: https://aniket-didolkar.github.io
+    affiliation: Mila - Quebec AI Institute, CA
+
 "Francesco":
   - firstname: ["Francesco Stella"]
-    url: https://scholar.google.com/citations?user=krrh6OUAAAAJ&hl=en&oi=ao
+    url: https://sites.google.com/studenti.uniroma1.it/francescostella/home
     affiliation: EPFL, SW
 
-"Justin":
-  - firstname: ["Justin Dauwels"]
-    url: https://www.linkedin.com/in/justin-dauwels-9146b62/?originalSubdomain=nl
-    affiliation: Delft University of Technology
+"Carlo":
+  - firstname: ["Carlo Saccardi"]
+    url: https://www.linkedin.com/in/carlo-saccardi-a82191227/
+    affiliation: Delft University of Technology, NL
 
-"Geert":
-  - firstname: ["Geert Leus"]
-    url: https://scholar.google.com/citations?user=P9MqNggAAAAJ&hl=en
-    affiliation: Delft University of Technology
+"Vedant":
+  - firstname: ["Vedant Shah"]
+    url: https://veds12.github.io
+    affiliation: Mila - Quebec AI Institute, CA
 
-"Dianbo":
-  - firstname: ["Dianbo Liu"]
-    url: https://www.cogai4sci.com
-    affiliation: National University of Singapore 
+"Aki":
+  - firstname: ["Akihiro Nakano"]
+    url: https://weblab.t.u-tokyo.ac.jp/en/dt_team/中野聡大-2/
+    affiliation: The University of Tokyo, JP
+
+"Oussama":
+  - firstname: ["Oussama Boussif"]
+    url: https://jaggbow.github.io/about/
+    affiliation: Mila - Quebec AI Institute, CA
+
+"Pietro":
+  - firstname: ["Pietro Mazzaglia"]
+    url: https://mazpie.github.io
+    affiliation: University of Ghent, BE
+
+"Ruben":
+  - firstname: ["Ruben Imhoff"]
+    url: https://www.deltares.nl/en/expertise/our-people/ruben-imhoff
+    affiliation: Deltares, NL
+
+
 
 
