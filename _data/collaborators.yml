@@ -1,40 +1,27 @@
-Collaborators:
-  - name: Aniket Didolkar
-    url: https://aniket-didolkar.github.io
-    affiliation: Mila - Quebec AI Institute, CA
-
-  - name: Francesco Stella
-    url: https://sites.google.com/studenti.uniroma1.it/francescostella/home
-    affiliation: EPFL, SW
-
-  - name: Carlo Saccardi
-    url: https://www.linkedin.com/in/carlo-saccardi-a82191227/
-    affiliation: Delft University of Technology, NL
-
-  - name: Vedant Shah
-    url: https://veds12.github.io
-    affiliation: Mila - Quebec AI Institute, CA
-
-  - name: Akihiro Nakano
-    url: https://weblab.t.u-tokyo.ac.jp/en/dt_team/中野聡大-2/
-    affiliation: The University of Tokyo, JP
-
-  - name: Oussama Boussif
-    url: https://jaggbow.github.io/about/
-    affiliation: Mila - Quebec AI Institute, CA
-
-  - name: Pietro Mazzaglia
-    url: https://mazpie.github.io
-    affiliation: University of Ghent, BE
-
-  - name: Ruben Imhoff
-    url: https://www.deltares.nl/en/expertise/our-people/ruben-imhoff
-    affiliation: Deltares, NL
-
-  - name: Louis Mahon
-    url: https://scholar.google.com/citations?user=uKsu2tIAAAAJ&hl=en
-    affiliation: University of Edinburgh, UK
-
-
-
-
+- name: Aniket Didolkar
+  url: https://aniket-didolkar.github.io
+  affiliation: Mila - Quebec AI Institute, CA
+- name: Francesco Stella
+  url: https://sites.google.com/studenti.uniroma1.it/francescostella/home
+  affiliation: EPFL, SW
+- name: Carlo Saccardi
+  url: https://www.linkedin.com/in/carlo-saccardi-a82191227/
+  affiliation: Delft University of Technology, NL
+- name: Vedant Shah
+  url: https://veds12.github.io
+  affiliation: Mila - Quebec AI Institute, CA
+- name: Akihiro Nakano
+  url: https://weblab.t.u-tokyo.ac.jp/en/dt_team/中野聡大-2/
+  affiliation: The University of Tokyo, JP
+- name: Oussama Boussif
+  url: https://jaggbow.github.io/about/
+  affiliation: Mila - Quebec AI Institute, CA
+- name: Pietro Mazzaglia
+  url: https://mazpie.github.io
+  affiliation: University of Ghent, BE
+- name: Ruben Imhoff
+  url: https://www.deltares.nl/en/expertise/our-people/ruben-imhoff
+  affiliation: Deltares, NL
+- name: Louis Mahon
+  url: https://scholar.google.com/citations?user=uKsu2tIAAAAJ&hl=en
+  affiliation: University of Edinburgh, UK

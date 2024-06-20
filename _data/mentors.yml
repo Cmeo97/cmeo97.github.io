@@ -1,22 +1,17 @@
-Mentors:
-  - name: Yoshua Bengio
-    url: https://yoshuabengio.org
-    affiliation: Mila - Quebec AI Institute, CA
-
-  - name: Anirudh Goyal
-    url: https://scholar.google.com/citations?user=krrh6OUAAAAJ&hl=en&oi=ao
-    affiliation: Google Deepmind, UK
-
-  - name: Justin Dauwels
-    url: https://www.linkedin.com/in/justin-dauwels-9146b62/?originalSubdomain=nl
-    affiliation: Delft University of Technology, NL
-
-  - name: Geert Leus
-    url: https://scholar.google.com/citations?user=P9MqNggAAAAJ&hl=en
-    affiliation: Delft University of Technology, NL
-
-  - name: Dianbo Liu
-    url: https://www.cogai4sci.com
-    affiliation: National University of Singapore, SG
+- name: Yoshua Bengio
+  url: https://yoshuabengio.org
+  affiliation: Mila - Quebec AI Institute, CA
+- name: Anirudh Goyal
+  url: https://scholar.google.com/citations?user=krrh6OUAAAAJ&hl=en&oi=ao
+  affiliation: Google Deepmind, UK
+- name: Justin Dauwels
+  url: https://www.linkedin.com/in/justin-dauwels-9146b62/?originalSubdomain=nl
+  affiliation: Delft University of Technology, NL
+- name: Geert Leus
+  url: https://scholar.google.com/citations?user=P9MqNggAAAAJ&hl=en
+  affiliation: Delft University of Technology, NL
+- name: Dianbo Liu
+  url: https://www.cogai4sci.com
+  affiliation: National University of Singapore, SG
 
 
