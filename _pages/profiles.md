@@ -31,6 +31,6 @@ nav_order: 5
 ### Students
 {% assign students = site.data.students %}
 {% for item in site.data.students %}
-  {% include person-item.liquid %}
+  {% include student-item.liquid %}
 {% endfor %}
 <br>
