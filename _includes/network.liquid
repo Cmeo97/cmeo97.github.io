@@ -1,36 +1,48 @@
 <div class="network-section">
-
   <h2>Mentors</h2>
-  <ul>
+  <div class="people-list">
     {% for mentor in site.data.mentors %}
-      <li><a href="{{ mentor.url }}" target="_blank">{{ mentor.firstname[0] }}</a>, {{ mentor.affiliation }}</li>
+      <div class="person">
+        <p>{{ mentor.firstname[0] }}</p>
+        <p>{{ mentor.affiliation }}</p>
+        <p><a href="{{ mentor.url }}" target="_blank">{{ mentor.url }}</a></p>
+      </div>
     {% endfor %}
-  </ul>
+  </div>
   <hr>
 
   <h2>Mentees</h2>
-  <ul>
+  <div class="people-list">
     {% for mentee in site.data.mentees %}
-      <li><a href="{{ mentee.url }}" target="_blank">{{ mentee.firstname[0] }}</a>, {{ mentee.affiliation }}</li>
+      <div class="person">
+        <p>{{ mentee.firstname[0] }}</p>
+        <p>{{ mentee.affiliation }}</p>
+        <p><a href="{{ mentee.url }}" target="_blank">{{ mentee.url }}</a></p>
+      </div>
     {% endfor %}
-  </ul>
+  </div>
   <hr>
 
   <h2>Collaborators</h2>
-  <ul>
+  <div class="people-list">
     {% for collaborator in site.data.collaborators %}
-      <li><a href="{{ collaborator.url }}" target="_blank">{{ collaborator.firstname[0] }}</a>, {{ collaborator.affiliation }}</li>
+      <div class="person">
+        <p>{{ collaborator.firstname[0] }}</p>
+        <p>{{ collaborator.affiliation }}</p>
+        <p><a href="{{ collaborator.url }}" target="_blank">{{ collaborator.url }}</a></p>
+      </div>
     {% endfor %}
-  </ul>
+  </div>
   <hr>
 
   <h2>Students</h2>
-  <ul>
+  <div class="people-list">
     {% for student in site.data.students %}
-      <li>{{ student }}</li>
+      <div class="person">
+        <p>{{ student }}</p>
+      </div>
     {% endfor %}
-  </ul>
-  
+  </div>
 </div>
 
 <style>
@@ -40,12 +52,17 @@
   .network-section h2 {
     margin-top: 20px;
   }
-  .network-section ul {
-    list-style-type: none;
-    padding: 0;
+  .people-list {
+    margin-bottom: 20px;
   }
-  .network-section ul li {
-    margin: 5px 0;
+  .person {
+    margin-bottom: 20px; /* Add space between people */
+  }
+  .person p {
+    margin: 0; /* Ensure no extra margin between lines */
+  }
+  .person p + p {
+    margin-top: 5px; /* Add a small margin between lines */
   }
   .network-section hr {
     margin: 20px 0;

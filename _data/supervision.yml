@@ -6,34 +6,20 @@
 - name: Research Projects (MSc Thesis) 
   university: Delft University of Technology
   role: Project supervisor, Final year students
-  year: 2024
-
-- name: Research Projects (MSc Thesis)
-  university: Delft University of Technology
-  role: Project supervisor, Final year students
-  year: 2023
-
-- name: Research Projects (MSc Thesis)
-  university: Delft University of Technology
-  role: Project supervisor, Final year students
-  year: 2022
+  year: 2022-2024
 
 - name: Research Project (Honors Project)
   university: Delft University of Technology
   role: Project supervisor, Honors program
-  year: 2023
+  year: 2023-2024
 
 - name: Research Project 
   university: National University of Singapore
   role: Project supervisor, Final year students
-  year: 2023
+  year: 2023-2024
 
 - name: Research Project 
   university: Mila Quebec AI Institute
   role: Project supervisor, MSc student
   year: 2023
 
-- name: Research Project (Honors Project)
-  university: Delft University of Technology
-  role: Project supervisor, Honors program
-  year: 2024
