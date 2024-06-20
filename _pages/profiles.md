@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 5
 ---
-Here you can find a list of all people I've worked with - Mentors, Mentees, Collaborators and Students I've worked with along my career. 
+Here you can find a list of all Mentors, Mentees, Collaborators and Students I've worked with along my career. 
 
 ### Mentors
 {% assign mentors = site.data.mentors %}
