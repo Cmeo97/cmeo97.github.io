@@ -8,25 +8,28 @@ nav_order: 5
 ---
 
 ### Mentors
-{% for mentor in site.data.mentors %}
-  {% include person-item.liquid person=mentor %}
+{% assign mentors = site.data.mentors %}
+{% for item in site.data.mentors %}
+  {% include person-item.liquid %}
 {% endfor %}
 <br>
 
 ### Mentees
-{% for mentee in site.data.mentees %}
-  {% include person-item.liquid person=mentee %}
+{% assign mentees = site.data.mentees %}
+{% for item in site.data.mentees %}
+  {% include person-item.liquid %}
 {% endfor %}
 <br>
 
 ### Collaborators
-{% for collaborator in site.data.collaborators %}
-  {% include person-item.liquid person=collaborator %}
+{% assign collaborators = site.data.collaborators %}
+{% for item in site.data.collaborators %}
+  {% include person-item.liquid %}
 {% endfor %}
 <br>
 
 ### Students
 {% for student in site.data.students %}
-  {% include student-item.liquid student=student %}
+  {% include student-item.liquid student=student %},<br>
 {% endfor %}
 <br>
