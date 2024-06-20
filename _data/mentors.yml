@@ -1,21 +1,21 @@
 Mentors:
-  - firstname: ["Yoshua Bengio"]
+  - name: Yoshua Bengio
     url: https://yoshuabengio.org
     affiliation: Mila - Quebec AI Institute, CA
 
-  - firstname: ["Anirudh Goyal"]
+  - name: Anirudh Goyal
     url: https://scholar.google.com/citations?user=krrh6OUAAAAJ&hl=en&oi=ao
     affiliation: Google Deepmind, UK
 
-  - firstname: ["Justin Dauwels"]
+  - name: Justin Dauwels
     url: https://www.linkedin.com/in/justin-dauwels-9146b62/?originalSubdomain=nl
     affiliation: Delft University of Technology, NL
 
-  - firstname: ["Geert Leus"]
+  - name: Geert Leus
     url: https://scholar.google.com/citations?user=P9MqNggAAAAJ&hl=en
     affiliation: Delft University of Technology, NL
 
-  - firstname: ["Dianbo Liu"]
+  - name: Dianbo Liu
     url: https://www.cogai4sci.com
     affiliation: National University of Singapore, SG
 
