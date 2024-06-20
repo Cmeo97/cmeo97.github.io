@@ -1,42 +1,39 @@
-"Aniket":
+Collaborators:
   - firstname: ["Aniket Didolkar"]
     url: https://aniket-didolkar.github.io
     affiliation: Mila - Quebec AI Institute, CA
 
-"Francesco":
   - firstname: ["Francesco Stella"]
     url: https://sites.google.com/studenti.uniroma1.it/francescostella/home
     affiliation: EPFL, SW
 
-"Carlo":
   - firstname: ["Carlo Saccardi"]
     url: https://www.linkedin.com/in/carlo-saccardi-a82191227/
     affiliation: Delft University of Technology, NL
 
-"Vedant":
   - firstname: ["Vedant Shah"]
     url: https://veds12.github.io
     affiliation: Mila - Quebec AI Institute, CA
 
-"Aki":
   - firstname: ["Akihiro Nakano"]
     url: https://weblab.t.u-tokyo.ac.jp/en/dt_team/中野聡大-2/
     affiliation: The University of Tokyo, JP
 
-"Oussama":
   - firstname: ["Oussama Boussif"]
     url: https://jaggbow.github.io/about/
     affiliation: Mila - Quebec AI Institute, CA
 
-"Pietro":
   - firstname: ["Pietro Mazzaglia"]
     url: https://mazpie.github.io
     affiliation: University of Ghent, BE
 
-"Ruben":
   - firstname: ["Ruben Imhoff"]
     url: https://www.deltares.nl/en/expertise/our-people/ruben-imhoff
     affiliation: Deltares, NL
+
+  - firstname: ["Louis Mahon"]
+    url: https://scholar.google.com/citations?user=uKsu2tIAAAAJ&hl=en
+    affiliation: University of Edinburgh, UK
 
 
 

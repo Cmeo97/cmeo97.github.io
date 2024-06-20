@@ -1,0 +1,56 @@
+---
+layout: page
+---
+<div class="network-section">
+
+  <h2>Mentors</h2>
+  <ul>
+    {% for mentor in site.data.mentors %}
+      <li><a href="{{ mentor.url }}" target="_blank">{{ mentor.firstname[0] }}</a>, {{ mentor.affiliation }}</li>
+    {% endfor %}
+  </ul>
+  <hr>
+
+  <h2>Mentees</h2>
+  <ul>
+    {% for mentee in site.data.mentees %}
+      <li><a href="{{ mentee.url }}" target="_blank">{{ mentee.firstname[0] }}</a>, {{ mentee.affiliation }}</li>
+    {% endfor %}
+  </ul>
+  <hr>
+
+  <h2>Collaborators</h2>
+  <ul>
+    {% for collaborator in site.data.collaborators %}
+      <li><a href="{{ collaborator.url }}" target="_blank">{{ collaborator.firstname[0] }}</a>, {{ collaborator.affiliation }}</li>
+    {% endfor %}
+  </ul>
+  <hr>
+
+  <h2>Students</h2>
+  <ul>
+    {% for student in site.data.students %}
+      <li>{{ student }}</li>
+    {% endfor %}
+  </ul>
+  
+</div>
+
+<style>
+  .network-section {
+    margin: 20px;
+  }
+  .network-section h2 {
+    margin-top: 20px;
+  }
+  .network-section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  .network-section ul li {
+    margin: 5px 0;
+  }
+  .network-section hr {
+    margin: 20px 0;
+  }
+</style>
