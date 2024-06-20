@@ -18,7 +18,6 @@ nav_order: 4
 {% for item in site.data.teaching %}
   {% include teaching-item.liquid %}
 {% endfor %}
-<br>
 
 ### Supervision
 {% assign teaching = site.data.supervision | sort: 'year' | reverse %}
