@@ -29,7 +29,8 @@ nav_order: 5
 <br>
 
 ### Students
-{% for student in site.data.students %}
-  {% include student-item.liquid student=student %},<br>
+{% assign students = site.data.students %}
+{% for item in site.data.students %}
+  {% include person-item.liquid %}
 {% endfor %}
 <br>
