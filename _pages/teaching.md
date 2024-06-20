@@ -6,6 +6,12 @@ nav: true
 nav_order: 4
 ---
 
+### Voluntary work
+- **Organiser** of AI Job Fair in Delft (ongoing).
+- **Reviewer** for ICML, NeurIPS and ICLR. 
+- **PhD Council representative** at [Delft University of Technology](https://www.tudelft.nl/en/eemcs/the-faculty/eemcs-phd-council). 
+- **Supervisor** of several MSc students at TUDelft and [National University of Singapore](https://www.cogai4sci.com). 
+<br>
 
 ### Teaching
 {% assign teaching = site.data.teaching | sort: 'year' | reverse %}
@@ -22,10 +28,5 @@ nav_order: 4
 <br>
 
 
-### Voluntary work
-- **Organiser** of AI Job Fair in Delft (ongoing).
-- **Reviewer** for ICML, NeurIPS and ICLR. 
-- **PhD Council representative** at [Delft University of Technology](https://www.tudelft.nl/en/eemcs/the-faculty/eemcs-phd-council). 
-- **Supervisor** of several MSc students at TUDelft and [National University of Singapore](https://www.cogai4sci.com). 
-<br>
+
 
